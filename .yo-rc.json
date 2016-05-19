@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "reactH5",
+    "style": "sass",
+    "postcss": true,
+    "generatedWithVersion": 3
+  }
+}
